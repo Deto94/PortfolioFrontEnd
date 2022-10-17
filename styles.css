@@ -1,0 +1,14 @@
+body {
+    
+    background-color: grey;
+  }
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+}
+
+.card-bg{
+  background-color: grey;
+  color: white;
+}
